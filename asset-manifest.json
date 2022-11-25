@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ab8848c.css",
+    "main.js": "/static/js/main.172099fd.js",
+    "static/media/bg-1.png": "/static/media/bg-1.390de0a8f8ba8e82976e.png",
+    "static/media/Cabin-VariableFont_wdth,wght.ttf": "/static/media/Cabin-VariableFont_wdth,wght.3a81d4faae694f921125.ttf",
+    "static/media/uogp.png": "/static/media/uogp.51fd895a54a9ce9f2833.png",
+    "static/media/ComicNeue-Regular.ttf": "/static/media/ComicNeue-Regular.f6e8f457de11c548d697.ttf",
+    "static/media/Damion-Regular.ttf": "/static/media/Damion-Regular.2e24147a9bd31952d7e9.ttf",
+    "static/media/Arvo-Regular.ttf": "/static/media/Arvo-Regular.e3d3d53c44db025c4592.ttf",
+    "index.html": "/index.html",
+    "main.5ab8848c.css.map": "/static/css/main.5ab8848c.css.map",
+    "main.172099fd.js.map": "/static/js/main.172099fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab8848c.css",
+    "static/js/main.172099fd.js"
+  ]
+}
