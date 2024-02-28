@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.89ae5d65.css",
-    "main.js": "/static/js/main.977412af.js",
+    "main.js": "/static/js/main.6bef3108.js",
     "static/media/Laporan Kepuasan pengguna Penelitian.pdf": "/static/media/Laporan Kepuasan pengguna Penelitian.b60db0c979fbd37e51b9.pdf",
     "static/media/LAPORAN Survey Kepuasan Pemangku Kepentingan terhadap layanan manajemen FST UOGP TA 20222023.pdf": "/static/media/LAPORAN Survey Kepuasan Pemangku Kepentingan terhadap layanan manajemen FST UOGP TA 20222023.8e17d6c88fecd8f8b4c7.pdf",
     "static/media/LAPORAN KUESIONER PEMAHAMAN VISI MISI FST PROGRAM STUDI BIOLOGI TAHUN AKADEMIK 20222023.pdf": "/static/media/LAPORAN KUESIONER PEMAHAMAN VISI MISI FST PROGRAM STUDI BIOLOGI TAHUN AKADEMIK 20222023.a0b8544d03e8340e7ac4.pdf",
@@ -18,10 +18,10 @@
     "static/media/Arvo-Regular.ttf": "/static/media/Arvo-Regular.e3d3d53c44db025c4592.ttf",
     "index.html": "/index.html",
     "main.89ae5d65.css.map": "/static/css/main.89ae5d65.css.map",
-    "main.977412af.js.map": "/static/js/main.977412af.js.map"
+    "main.6bef3108.js.map": "/static/js/main.6bef3108.js.map"
   },
   "entrypoints": [
     "static/css/main.89ae5d65.css",
-    "static/js/main.977412af.js"
+    "static/js/main.6bef3108.js"
   ]
 }
