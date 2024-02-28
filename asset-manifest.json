@@ -1,18 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.561b9f12.css",
-    "main.js": "/static/js/main.1761065f.js",
+    "main.css": "/static/css/main.89ae5d65.css",
+    "main.js": "/static/js/main.977412af.js",
+    "static/media/Laporan Kepuasan pengguna Penelitian.pdf": "/static/media/Laporan Kepuasan pengguna Penelitian.b60db0c979fbd37e51b9.pdf",
+    "static/media/LAPORAN Survey Kepuasan Pemangku Kepentingan terhadap layanan manajemen FST UOGP TA 20222023.pdf": "/static/media/LAPORAN Survey Kepuasan Pemangku Kepentingan terhadap layanan manajemen FST UOGP TA 20222023.8e17d6c88fecd8f8b4c7.pdf",
+    "static/media/LAPORAN KUESIONER PEMAHAMAN VISI MISI FST PROGRAM STUDI BIOLOGI TAHUN AKADEMIK 20222023.pdf": "/static/media/LAPORAN KUESIONER PEMAHAMAN VISI MISI FST PROGRAM STUDI BIOLOGI TAHUN AKADEMIK 20222023.a0b8544d03e8340e7ac4.pdf",
+    "static/media/LAPORAN SURVEI KEPUASAN DOSEN DAN TENAGA KEPENDIDIKAN TERHADAP PENGELOLAAN SUMBER DAYA MANUSIA.pdf": "/static/media/LAPORAN SURVEI KEPUASAN DOSEN DAN TENAGA KEPENDIDIKAN TERHADAP PENGELOLAAN SUMBER DAYA MANUSIA.2d0edabea37ce4b70e21.pdf",
+    "static/media/Laporan Kepuasan pengguna PKM.pdf": "/static/media/Laporan Kepuasan pengguna PKM.86ea07e7f161a35aba56.pdf",
+    "static/media/LAPORAN SURVEI TRACER STUDI.pdf": "/static/media/LAPORAN SURVEI TRACER STUDI.78c3502e37ad04d8cc37.pdf",
+    "static/media/laporan-Kepuasan-Mahasiswa-Terhadap-Proses-Pendidikan-TA-2022- 2023.pdf": "/static/media/laporan-Kepuasan-Mahasiswa-Terhadap-Proses-Pendidikan-TA-2022- 2023.ffaafc59227285393279.pdf",
+    "static/media/LAPORAN KEPUASAN MAHASISWA TERHADAP LAYANAN KEMAHASISWAAN UNIVERSITAS OTTOW GEISSLER PAPUA.pdf": "/static/media/LAPORAN KEPUASAN MAHASISWA TERHADAP LAYANAN KEMAHASISWAAN UNIVERSITAS OTTOW GEISSLER PAPUA.d58ba6108d7a8f120013.pdf",
+    "static/media/LAPORAN SURVEI KEPUASAN CIVITAS AKADEMIK TERHADAP LAYANAN PENGOLAHAN KEUANGAN SARANA DAN PRASARANA.pdf": "/static/media/LAPORAN SURVEI KEPUASAN CIVITAS AKADEMIK TERHADAP LAYANAN PENGOLAHAN KEUANGAN SARANA DAN PRASARANA.a9fc98595cfdd85fb69b.pdf",
     "static/media/bg-1.png": "/static/media/bg-1.390de0a8f8ba8e82976e.png",
     "static/media/Cabin-VariableFont_wdth,wght.ttf": "/static/media/Cabin-VariableFont_wdth,wght.3a81d4faae694f921125.ttf",
     "static/media/ComicNeue-Regular.ttf": "/static/media/ComicNeue-Regular.f6e8f457de11c548d697.ttf",
     "static/media/Damion-Regular.ttf": "/static/media/Damion-Regular.2e24147a9bd31952d7e9.ttf",
     "static/media/Arvo-Regular.ttf": "/static/media/Arvo-Regular.e3d3d53c44db025c4592.ttf",
     "index.html": "/index.html",
-    "main.561b9f12.css.map": "/static/css/main.561b9f12.css.map",
-    "main.1761065f.js.map": "/static/js/main.1761065f.js.map"
+    "main.89ae5d65.css.map": "/static/css/main.89ae5d65.css.map",
+    "main.977412af.js.map": "/static/js/main.977412af.js.map"
   },
   "entrypoints": [
-    "static/css/main.561b9f12.css",
-    "static/js/main.1761065f.js"
+    "static/css/main.89ae5d65.css",
+    "static/js/main.977412af.js"
   ]
 }
