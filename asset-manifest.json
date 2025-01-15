@@ -1,7 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a753a1e.css",
-    "main.js": "/static/js/main.e9351178.js",
+    "main.css": "/static/css/main.122bd643.css",
+    "main.js": "/static/js/main.ea384b72.js",
+    "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.a97d2c3c.chunk.js",
+    "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.1ba0f6c2.chunk.js",
+    "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.d8a70282.chunk.js",
+    "reactPlayerMux.js": "/static/js/reactPlayerMux.6a2478fb.chunk.js",
+    "reactPlayerFacebook.js": "/static/js/reactPlayerFacebook.50b8ee52.chunk.js",
+    "reactPlayerStreamable.js": "/static/js/reactPlayerStreamable.a44ee355.chunk.js",
+    "reactPlayerWistia.js": "/static/js/reactPlayerWistia.500cfc80.chunk.js",
+    "reactPlayerTwitch.js": "/static/js/reactPlayerTwitch.2e8ed01a.chunk.js",
+    "reactPlayerDailyMotion.js": "/static/js/reactPlayerDailyMotion.a5cd9cfa.chunk.js",
+    "reactPlayerMixcloud.js": "/static/js/reactPlayerMixcloud.632b410c.chunk.js",
+    "reactPlayerVidyard.js": "/static/js/reactPlayerVidyard.f9213125.chunk.js",
+    "reactPlayerKaltura.js": "/static/js/reactPlayerKaltura.578f582f.chunk.js",
+    "reactPlayerFilePlayer.js": "/static/js/reactPlayerFilePlayer.6b1d7495.chunk.js",
+    "reactPlayerPreview.js": "/static/js/reactPlayerPreview.5cb55c95.chunk.js",
     "static/media/Laporan Kepuasan pengguna Penelitian.pdf": "/static/media/Laporan Kepuasan pengguna Penelitian.b60db0c979fbd37e51b9.pdf",
     "static/media/LAPORAN Survey Kepuasan Pemangku Kepentingan terhadap layanan manajemen FST UOGP TA 20222023.pdf": "/static/media/LAPORAN Survey Kepuasan Pemangku Kepentingan terhadap layanan manajemen FST UOGP TA 20222023.8e17d6c88fecd8f8b4c7.pdf",
     "static/media/LAPORAN KUESIONER PEMAHAMAN VISI MISI FST PROGRAM STUDI BIOLOGI TAHUN AKADEMIK 20222023.pdf": "/static/media/LAPORAN KUESIONER PEMAHAMAN VISI MISI FST PROGRAM STUDI BIOLOGI TAHUN AKADEMIK 20222023.a0b8544d03e8340e7ac4.pdf",
@@ -17,11 +31,25 @@
     "static/media/Damion-Regular.ttf": "/static/media/Damion-Regular.2e24147a9bd31952d7e9.ttf",
     "static/media/Arvo-Regular.ttf": "/static/media/Arvo-Regular.e3d3d53c44db025c4592.ttf",
     "index.html": "/index.html",
-    "main.3a753a1e.css.map": "/static/css/main.3a753a1e.css.map",
-    "main.e9351178.js.map": "/static/js/main.e9351178.js.map"
+    "main.122bd643.css.map": "/static/css/main.122bd643.css.map",
+    "main.ea384b72.js.map": "/static/js/main.ea384b72.js.map",
+    "reactPlayerYouTube.a97d2c3c.chunk.js.map": "/static/js/reactPlayerYouTube.a97d2c3c.chunk.js.map",
+    "reactPlayerSoundCloud.1ba0f6c2.chunk.js.map": "/static/js/reactPlayerSoundCloud.1ba0f6c2.chunk.js.map",
+    "reactPlayerVimeo.d8a70282.chunk.js.map": "/static/js/reactPlayerVimeo.d8a70282.chunk.js.map",
+    "reactPlayerMux.6a2478fb.chunk.js.map": "/static/js/reactPlayerMux.6a2478fb.chunk.js.map",
+    "reactPlayerFacebook.50b8ee52.chunk.js.map": "/static/js/reactPlayerFacebook.50b8ee52.chunk.js.map",
+    "reactPlayerStreamable.a44ee355.chunk.js.map": "/static/js/reactPlayerStreamable.a44ee355.chunk.js.map",
+    "reactPlayerWistia.500cfc80.chunk.js.map": "/static/js/reactPlayerWistia.500cfc80.chunk.js.map",
+    "reactPlayerTwitch.2e8ed01a.chunk.js.map": "/static/js/reactPlayerTwitch.2e8ed01a.chunk.js.map",
+    "reactPlayerDailyMotion.a5cd9cfa.chunk.js.map": "/static/js/reactPlayerDailyMotion.a5cd9cfa.chunk.js.map",
+    "reactPlayerMixcloud.632b410c.chunk.js.map": "/static/js/reactPlayerMixcloud.632b410c.chunk.js.map",
+    "reactPlayerVidyard.f9213125.chunk.js.map": "/static/js/reactPlayerVidyard.f9213125.chunk.js.map",
+    "reactPlayerKaltura.578f582f.chunk.js.map": "/static/js/reactPlayerKaltura.578f582f.chunk.js.map",
+    "reactPlayerFilePlayer.6b1d7495.chunk.js.map": "/static/js/reactPlayerFilePlayer.6b1d7495.chunk.js.map",
+    "reactPlayerPreview.5cb55c95.chunk.js.map": "/static/js/reactPlayerPreview.5cb55c95.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a753a1e.css",
-    "static/js/main.e9351178.js"
+    "static/css/main.122bd643.css",
+    "static/js/main.ea384b72.js"
   ]
 }
