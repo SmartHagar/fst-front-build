@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7759a825.css",
-    "main.js": "/static/js/main.2241f00b.js",
+    "main.js": "/static/js/main.364f3c1d.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.a97d2c3c.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.1ba0f6c2.chunk.js",
     "reactPlayerVimeo.js": "/static/js/reactPlayerVimeo.d8a70282.chunk.js",
@@ -17,11 +17,20 @@
     "reactPlayerFilePlayer.js": "/static/js/reactPlayerFilePlayer.6b1d7495.chunk.js",
     "reactPlayerPreview.js": "/static/js/reactPlayerPreview.5cb55c95.chunk.js",
     "static/media/Laporan Kepuasan pengguna Penelitian.pdf": "/static/media/Laporan Kepuasan pengguna Penelitian.b60db0c979fbd37e51b9.pdf",
+    "static/media/LAPORAN SURVEY KEPUASAN PEMANGKU KEPENTINGAN TERHADAP LAYANAN MANAJEMEN TAHUN AKADEMIK .pdf": "/static/media/LAPORAN SURVEY KEPUASAN PEMANGKU KEPENTINGAN TERHADAP LAYANAN MANAJEMEN TAHUN AKADEMIK .0a98dc75490631c44901.pdf",
     "static/media/LAPORAN Survey Kepuasan Pemangku Kepentingan terhadap layanan manajemen FST UOGP TA 20222023.pdf": "/static/media/LAPORAN Survey Kepuasan Pemangku Kepentingan terhadap layanan manajemen FST UOGP TA 20222023.8e17d6c88fecd8f8b4c7.pdf",
     "static/media/LAPORAN KUESIONER PEMAHAMAN VISI MISI FST PROGRAM STUDI BIOLOGI TAHUN AKADEMIK 20222023.pdf": "/static/media/LAPORAN KUESIONER PEMAHAMAN VISI MISI FST PROGRAM STUDI BIOLOGI TAHUN AKADEMIK 20222023.a0b8544d03e8340e7ac4.pdf",
+    "static/media/LAPORAN SURVEY PEMAHAMAN VMTS FST & Geologi (C1).pdf": "/static/media/LAPORAN SURVEY PEMAHAMAN VMTS FST & Geologi (C1).1558264de4f97cf15a6d.pdf",
+    "static/media/LAPORAN SURVEI KEPUASAN MAHASISWA TERHADAP LAYANAN KEMAHASISWAAN PRODI GEOLOGI UNIVERSI.pdf": "/static/media/LAPORAN SURVEI KEPUASAN MAHASISWA TERHADAP LAYANAN KEMAHASISWAAN PRODI GEOLOGI UNIVERSI.54c12a1ad95f3f9e5ffa.pdf",
     "static/media/LAPORAN SURVEI KEPUASAN DOSEN DAN TENAGA KEPENDIDIKAN TERHADAP PENGELOLAAN SUMBER DAYA MANUSIA.pdf": "/static/media/LAPORAN SURVEI KEPUASAN DOSEN DAN TENAGA KEPENDIDIKAN TERHADAP PENGELOLAAN SUMBER DAYA MANUSIA.2d0edabea37ce4b70e21.pdf",
+    "static/media/Salinan LAPORAN SURVEI KEPUASAN CIVITAS AKADEMIK TERHADAP LAYANAN PENGELOLAAN KEUANGAN .pdf": "/static/media/Salinan LAPORAN SURVEI KEPUASAN CIVITAS AKADEMIK TERHADAP LAYANAN PENGELOLAAN KEUANGAN .d1e9f24038100b57be57.pdf",
+    "static/media/LAPORAN Survey TRACER-STUDY-BAGI-PENGGUNA-LULUSAN-PROGRAM STUDI GEOLOGI (C9).pdf": "/static/media/LAPORAN Survey TRACER-STUDY-BAGI-PENGGUNA-LULUSAN-PROGRAM STUDI GEOLOGI (C9).0776464c62d0cc91e687.pdf",
+    "static/media/LAPORAN SURVEY KEPUASAN PELAKSANA PENGABDIAN KEPADA MASYARAKAT (PKM) PROGRAM GEOLOGI (C.pdf": "/static/media/LAPORAN SURVEY KEPUASAN PELAKSANA PENGABDIAN KEPADA MASYARAKAT (PKM) PROGRAM GEOLOGI (C.3e511ad493015933ddcf.pdf",
     "static/media/Laporan Kepuasan pengguna PKM.pdf": "/static/media/Laporan Kepuasan pengguna PKM.86ea07e7f161a35aba56.pdf",
+    "static/media/LAPORAN SURVEY KEPUASAN PENELITI PRODI GEOLOGI (C7).pdf": "/static/media/LAPORAN SURVEY KEPUASAN PENELITI PRODI GEOLOGI (C7).aa98df2993eeade52397.pdf",
     "static/media/LAPORAN SURVEI TRACER STUDI.pdf": "/static/media/LAPORAN SURVEI TRACER STUDI.78c3502e37ad04d8cc37.pdf",
+    "static/media/LAPORAN SURVEI KEPUASAN MAHASISWA (C6).pdf": "/static/media/LAPORAN SURVEI KEPUASAN MAHASISWA (C6).05b972c8db0942381821.pdf",
+    "static/media/Salinan LAPORAN SURVEI KEPUASAN DOSEN DAN TENAGA KEPENDIDIKAN TERHADAP PENGELOLAAN SUMB.pdf": "/static/media/Salinan LAPORAN SURVEI KEPUASAN DOSEN DAN TENAGA KEPENDIDIKAN TERHADAP PENGELOLAAN SUMB.dac39dad91f408fc6037.pdf",
     "static/media/laporan-Kepuasan-Mahasiswa-Terhadap-Proses-Pendidikan-TA-2022- 2023.pdf": "/static/media/laporan-Kepuasan-Mahasiswa-Terhadap-Proses-Pendidikan-TA-2022- 2023.ffaafc59227285393279.pdf",
     "static/media/LAPORAN KEPUASAN MAHASISWA TERHADAP LAYANAN KEMAHASISWAAN UNIVERSITAS OTTOW GEISSLER PAPUA.pdf": "/static/media/LAPORAN KEPUASAN MAHASISWA TERHADAP LAYANAN KEMAHASISWAAN UNIVERSITAS OTTOW GEISSLER PAPUA.d58ba6108d7a8f120013.pdf",
     "static/media/LAPORAN SURVEI KEPUASAN CIVITAS AKADEMIK TERHADAP LAYANAN PENGOLAHAN KEUANGAN SARANA DAN PRASARANA.pdf": "/static/media/LAPORAN SURVEI KEPUASAN CIVITAS AKADEMIK TERHADAP LAYANAN PENGOLAHAN KEUANGAN SARANA DAN PRASARANA.a9fc98595cfdd85fb69b.pdf",
@@ -32,7 +41,7 @@
     "static/media/Arvo-Regular.ttf": "/static/media/Arvo-Regular.e3d3d53c44db025c4592.ttf",
     "index.html": "/index.html",
     "main.7759a825.css.map": "/static/css/main.7759a825.css.map",
-    "main.2241f00b.js.map": "/static/js/main.2241f00b.js.map",
+    "main.364f3c1d.js.map": "/static/js/main.364f3c1d.js.map",
     "reactPlayerYouTube.a97d2c3c.chunk.js.map": "/static/js/reactPlayerYouTube.a97d2c3c.chunk.js.map",
     "reactPlayerSoundCloud.1ba0f6c2.chunk.js.map": "/static/js/reactPlayerSoundCloud.1ba0f6c2.chunk.js.map",
     "reactPlayerVimeo.d8a70282.chunk.js.map": "/static/js/reactPlayerVimeo.d8a70282.chunk.js.map",
@@ -50,6 +59,6 @@
   },
   "entrypoints": [
     "static/css/main.7759a825.css",
-    "static/js/main.2241f00b.js"
+    "static/js/main.364f3c1d.js"
   ]
 }
